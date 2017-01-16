@@ -8,11 +8,14 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+  	use git add 
 
 What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+organized? How would branches help? 
+	when I have some new thought and don't know it's right or not,want to have some tries,then,the branch will help me to copy a branch to let me do it and will not influence workspace. 
 
 How do the diagrams help you visualize the branch structure?
+	parents and children ,digrams will output it with visualized.  
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
