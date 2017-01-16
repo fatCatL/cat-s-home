@@ -1,0 +1,20 @@
+commit 格式
+type: subject
+	feat:a new feature
+	fix:a bug fix
+	docs:changes to documentation
+	style:formatting,missing semi colons,etc;no code change	
+	refactor:refactoring production code
+	test:adding tests,refactoring test;no production code change
+	chore:updating build tasks,package manager configs,etc;no production code change
+body
+	Not all commits are complex enough to warrant a body, therefore it is optional and only 
+	used when a commit requires a bit of explanation and context. Use the body to explain the
+	what and why of a commit, not the how.When writing a body, the blank line between the title
+	and the body is required and you should limit the length of each line to no more than 72 characters
+foot
+	The footer is optional and is used to reference issue tracker IDs
+	If you use an issue tracker, put references to them at the bottom,
+	like this:
+		Resolves: #123
+		See also: #456, #789
