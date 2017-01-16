@@ -1,0 +1,6 @@
+    from the diff I can know which changes happend ,and pay attention on the differents of two document.if one day I forget what I do to the document,I can use thisto control all the things I have do .change one's document for it's logic changes,don't work two long times without git commit.
+1.choice the commit time by yourself and save it self-motion?
+    I think choiec the commit time by myself can let me know what happend at the first time.The self-motion can help me save the import information when I forget to commit or avoid accident.
+    new words: repository
+    when save lots of documents ,we can know what happen at one time,rather than just know one changes and can't remeber what use for this git .
+   < git config --global color.ui auto >this will make git log have color.
