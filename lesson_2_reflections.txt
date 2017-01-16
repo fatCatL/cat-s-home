@@ -19,6 +19,9 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	will let us can git log show us all the old commit they have git.
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
+What are the  pros and cons of Git’s automatic merging vs. always doing merges manually?
+	do this manually will let we can control it more bettter.
+	
+	
